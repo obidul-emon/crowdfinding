@@ -1,0 +1,30 @@
+[
+    {
+        "image": "./Cards/uploads/as-sunnah_foundation.avif",
+        "label": "Donation",
+        "title": "AS\u2011SUNNAH Foundation",
+        "goal": 5000,
+        "deadline": "May 30, 2025"
+    },
+    {
+        "image": "./Cards/uploads/681a47a97c5bc_bidyanondo_logo2.jpg",
+        "label": "Sports",
+        "title": "Bangladesh",
+        "goal": 100000,
+        "deadline": "June 10, 2026"
+    },
+    {
+        "image": "./Cards/uploads/681a4b03a23e7_kickstarter.webp",
+        "label": "Natural Disaster",
+        "title": "Flood",
+        "goal": 1000000,
+        "deadline": "June 10, 2025"
+    },
+    {
+        "image": "./Cards/uploads/681ada4932076_earthquake_0.avif",
+        "label": "Natural Disaster",
+        "title": "Eartquake",
+        "goal": 5000000,
+        "deadline": "May 15, 2025"
+    }
+]
